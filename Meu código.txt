@@ -1,1 +1,3 @@
-Olá, meu nomeé michael
+Olá, meu nome é Michael.
+
+Estou aprendendo programação através de bolsas de estudos concedidas pela DIO.
